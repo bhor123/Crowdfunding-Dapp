@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spandan114/Crowdfunding-DAPP.git"
+    "url": "git+https://github.com/bhor123/Crowdfunding-Dapp.git"
   },
   "author": "Bhor sharma",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/spandan114/Crowdfunding-DAPP/issues"
+    "url": "https://github.com/bhor123/Crowdfunding-Dapp/issues"
   },
-  "homepage": "https://github.com/spandan114/Crowdfunding-DAPP#readme",
+  "homepage": "https://github.com/bhor123/Crowdfunding-Dapp/tree/main/Crowdfunding-DAPP-master",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.5",
     "@nomiclabs/hardhat-waffle": "^2.0.3",
